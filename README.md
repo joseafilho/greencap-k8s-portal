@@ -1,2 +1,5 @@
-# greencap-k8s-portal
-Portal of the project.
+# GreenCap K8s
+
+## Descrição
+
+Este projeto fornece um ambiente completo de estudos, desenvolvimento e testes para Kubernetes.
